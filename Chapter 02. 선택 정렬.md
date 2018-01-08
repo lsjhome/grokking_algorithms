@@ -66,7 +66,7 @@
 
 <img src="./images/02_selection_sort/023_selection_sort/n_n_time.png" width=850 height=850>
 
-모두 합해서 O(n $\times$ n) 시간, 즉 O(n$^{2}$) 시간이 걸린다. 이는 다음과 같은 항목에 대해 사용할 수 있다.
+모두 합해서 O(n \times n) 시간, 즉 O(n$^{2}$) 시간이 걸린다. 이는 다음과 같은 항목에 대해 사용할 수 있다.
 
 - 전화번호부의 이름
 - 여행 날짜
