@@ -13,7 +13,7 @@
 
 큰 상자 속에는 작은 상자들이 있고, 그 작은 상자들 사이에는 더 작은 상자들이 있다. 열쇠는 그 상자 속 어딘가에 있다. 열쇠를 찾기 위한 알고리즘은 무엇일까?
 
-<img src="https://github.com/egonSchiele/grokking_algorithms/blob/master/images/03_recursion/031_recursion/loop_flowchart.png?raw=true",width=450,height=450>
+<img src="https://github.com/egonSchiele/grokking_algorithms/blob/master/images/03_recursion/031_recursion/loop_flowchart.png?raw=true" width=450 height=450>
 <center>방법 1</center>
 
 1. 내부를 확인할 상자를 쌓아놓는다.
